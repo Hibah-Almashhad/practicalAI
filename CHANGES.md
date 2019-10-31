@@ -1,5 +1,5 @@
 # Changes
-
+# I'm gonna make some changes soon!
 Releases are displayed in reverse chronological order and each release will contain new, changed and fixed content. Since this repository is a bit unique, here's how we'll do semantic versioning.
 
 - Major version X (X.y.z): When an entire set of notebook lessons is complete.
